@@ -19,5 +19,5 @@ This project aims to analyze Amazon sales data using SQL for data processing and
 - Geographic Analysis: Sales distribution across different regions.
 - Customer Insights: Analysis of customer purchasing behavior.
 
-### Tools Used: PowerBI
+### Tools Used: PowerBI and SQL
  
