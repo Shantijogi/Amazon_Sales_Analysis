@@ -1,8 +1,8 @@
 # Amazon_Sales_Analysis
-![Amazon sales Analysis Dashboard](Summary_Dashboard.png
-Revenue_Dashboard.png
-Profits_Dashboard.png
-Profits_Dashboard.png)
+![Amazon sales Analysis Dashboard](Summary_Dashboard.png)
+![Amazon sales Analysis Dashboard](Revenue_Dashboard.png)
+![Amazon sales Analysis Dashboard](Profits_Dashboard.png)
+![Amazon sales Analysis Dashboard](Profits_Dashboard.png)
 
 ### Overview
 This project aims to analyze Amazon sales data using SQL for data processing and Power BI for data visualization. The goal is to provide insights into sales performance, customer behavior, and product trends.
